@@ -1,0 +1,9 @@
+{
+  "name": "bugmiss",
+  "version": "1.0.0",
+  "description": "bugmiss javascript sdk",
+  "main": "index.js",
+  "repository": "https://github.com/bugmiss12/bugmiss.git",
+  "author": "bugmiss@163.com",
+  "license": "MIT"
+}
